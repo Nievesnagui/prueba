@@ -28,7 +28,7 @@ import javax.swing.JFrame;
  *
  */
 public class Arkanoid extends JFrame implements KeyListener {
-
+//Comentario2 para github
 	private static final long serialVersionUID = 1L;
 
 	/* CONSTANTS */
